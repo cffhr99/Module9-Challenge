@@ -16,5 +16,5 @@ The following two histogram tables are the frequency of precipitation in June an
 ![June](https://github.com/cffhr99/Module9-Challenge/blob/main/images/June_Prcp.PNG?raw=true)
 ![December](https://github.com/cffhr99/Module9-Challenge/blob/main/images/Dec_prcp.PNG?raw=true)
 ## Summary
-Overall the temperature in June and December are similar historically. Even December has a wider range of temperature since their maximal temperature are close and the December has a lower minimal temperature.  
-
+ - Overall the temperature in June and December are similar historically. Even December has a wider range of temperature since their maximal temperature are close and the December has a lower minimal temperature.  
+ - Similar with temperature, the precipitation in June and December has no significant difference. From the precipitation histograms above, it is obvious that the most frequency of precipitation is 0. Even December would has a maximal precipitation with 6, it is really rare during these years.  
