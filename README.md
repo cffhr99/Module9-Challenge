@@ -12,4 +12,5 @@ According to these two tables above :
  - Comparing the similar maximum temperature of June and December, the minimum temperatures, which are 64&deg;F and 56&deg;F respectively, have a great difference between June and December.
 
 ## Summary
+Overall the temperature in June and December are similar historically. Even December has a wider range of temperature since their maximal temperature are close and the December has a lower minimal temperature.  
 
