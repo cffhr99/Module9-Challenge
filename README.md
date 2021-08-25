@@ -12,7 +12,7 @@ According to these two tables above :
  - The average temperatures between June and December are 74.9&deg;F and 71.0&deg;F respectively, which shows that the difference between June and December is not significant.
  - Comparing the similar maximum temperature of June and December, the minimum temperatures, which are 64&deg;F and 56&deg;F respectively, have a great difference between June and December.
 ### Additional Analysis on Precipitation
-The following two histogram tables are the frequency of precipitation in June (Left) and December (Right).  
+The following two histogram tables are the frequency of precipitation in June and December.  
 ![June](https://github.com/cffhr99/Module9-Challenge/blob/main/images/June_Prcp.PNG?raw=true)
 ![December](https://github.com/cffhr99/Module9-Challenge/blob/main/images/Dec_prcp.PNG?raw=true)
 ## Summary
