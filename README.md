@@ -3,10 +3,10 @@
 ## Project Overview 
 W. Avy wants more information about temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year round.
 ## Results
-The following table is the summary analysis of temperature on June.
-[June](https://github.com/cffhr99/Module9-Challenge/blob/main/images/june_df.PNG?raw=true)  
+The following table is the summary analysis of temperature on June.  
+![June](https://github.com/cffhr99/Module9-Challenge/blob/main/images/june_df.PNG?raw=true)  
 And the next table is the summary of December's temperature statistics.  
-[December](https://github.com/cffhr99/Module9-Challenge/blob/main/images/dec_df.PNG)  
+![December](https://github.com/cffhr99/Module9-Challenge/blob/main/images/dec_df.PNG)  
 
 ## Summary
 
